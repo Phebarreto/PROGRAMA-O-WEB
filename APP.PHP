@@ -1,4 +1,4 @@
-class Usuario
+class
 {
     private string $nome;
     private float $peso;
